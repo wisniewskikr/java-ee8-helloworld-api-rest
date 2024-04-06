@@ -1,0 +1,1 @@
+web: java -jar pm.jar --deploy target/rest.war --port $PORT
