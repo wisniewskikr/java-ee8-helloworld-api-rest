@@ -24,9 +24,9 @@ DESCRIPTION
 -----------
 
 ##### Goal
-The goal of this project is to present how to create **simple REST API Java** application using **Java EE 8** framework. This application returns JSON with the key "message" and the value **Hello World!** as the result of GET HTTP method. 
+The goal of this project is to present how to deploy on **Heraku** a **REST API Java** application using **Java EE 8** framework. This application returns JSON with the key "message" and the value **Hello World!** as the result of GET HTTP method. 
 
-Application is deployed on **payara micro** in version 5.
+Application uses **payara micro** in version 5.
 
 ##### Flow
 The following flow takes place in this project:
